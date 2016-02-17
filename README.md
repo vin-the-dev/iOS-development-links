@@ -2,9 +2,11 @@
 A list of helper materials for iOS development 
 
 Git Links 
+
 https://github.com/didierbrun/DBPathRecognizer - helps to finger draw to text 
 
 Pods under testing
+
 https://github.com/iclems/iOS-htmltopdf/issues?utf8=✓&q=pod 
 https://github.com/brentnycum/BNHtmlPdfKit/issues
 
