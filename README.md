@@ -3,27 +3,25 @@ A list of helper materials for iOS development
 
 ## Git Links 
 
-https://github.com/didierbrun/DBPathRecognizer - helps to finger draw to text
-
-https://github.com/vsouza/awesome-ios - The mother of all list
+* https://github.com/didierbrun/DBPathRecognizer - helps to finger draw to text
+* https://github.com/vsouza/awesome-ios - The mother of all list
 
 ## Pods under review
 
-https://github.com/iclems/iOS-htmltopdf/issues?utf8=✓&q=pod
-
-https://github.com/brentnycum/BNHtmlPdfKit/issues
+* https://github.com/iclems/iOS-htmltopdf/issues?utf8=✓&q=pod
+* https://github.com/brentnycum/BNHtmlPdfKit/issues
 
 ## Tuts
 
 ## Gist
 
-https://gist.github.com/mattt/bd5e48ae461848cdbd1e
+* https://gist.github.com/mattt/bd5e48ae461848cdbd1e
 
 ## To Read
 
-http://useyourloaf.com/blog/printing-headers-and-footers-with-a-print-page-renderer/
-http://nshipster.com/uiprintinteractioncontroller/
+* http://useyourloaf.com/blog/printing-headers-and-footers-with-a-print-page-renderer/
+* http://nshipster.com/uiprintinteractioncontroller/
 
 ## More Helps
 
-http://krakendev.io/blog/hipster-swift#noescape 
+* http://krakendev.io/blog/hipster-swift#noescape 
