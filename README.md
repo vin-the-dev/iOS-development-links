@@ -9,7 +9,8 @@ https://github.com/vsouza/awesome-ios - The mother of all list
 
 ## Pods under review
 
-https://github.com/iclems/iOS-htmltopdf/issues?utf8=✓&q=pod 
+https://github.com/iclems/iOS-htmltopdf/issues?utf8=✓&q=pod
+
 https://github.com/brentnycum/BNHtmlPdfKit/issues
 
 ## Tuts
