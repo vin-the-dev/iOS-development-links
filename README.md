@@ -28,6 +28,7 @@ A list of helper materials for iOS development
 
 * http://useyourloaf.com/blog/printing-headers-and-footers-with-a-print-page-renderer/
 * http://nshipster.com/uiprintinteractioncontroller/
+* http://ericasadun.com/2015/05/21/swift-six-killer-features/ 
 
 ## More Helps
 
