@@ -10,6 +10,7 @@ A list of helper materials for iOS development
 
 * https://github.com/iclems/iOS-htmltopdf/issues?utf8=✓&q=pod
 * https://github.com/brentnycum/BNHtmlPdfKit/issues
+* https://github.com/Flipboard/FLEX?ref=producthunt
 
 ## Tuts
 
