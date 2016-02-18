@@ -17,6 +17,12 @@ A list of helper materials for iOS development
 
 * https://gist.github.com/mattt/bd5e48ae461848cdbd1e
 
+## Inspiration
+
+* http://samvlu.com
+* https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.i6hdk4dxz
+* https://github.com/allenwong/30DaysofSwift
+
 ## To Read
 
 * http://useyourloaf.com/blog/printing-headers-and-footers-with-a-print-page-renderer/
