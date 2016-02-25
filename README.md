@@ -5,6 +5,7 @@ A list of helper materials for iOS development
 
 * https://github.com/didierbrun/DBPathRecognizer - helps to finger draw to text
 * https://github.com/vsouza/awesome-ios - The mother of all list
+* https://github.com/goktugyil/EZSwiftExtensions - Neat Extensions
 
 ## Pods under review
 
