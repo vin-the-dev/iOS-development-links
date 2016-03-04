@@ -45,5 +45,5 @@ A list of helper materials for iOS development
 * http://stackoverflow.com/a/25169215/2100226 if Pod install takes for ever!!!
 
 ## Medium
-* https://medium.com/ios-os-x-development - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
-* https://medium.com/swift-programming - The Swift Programming Language
+* [iOS App Development](https://medium.com/ios-os-x-development - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone)
+* [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language
