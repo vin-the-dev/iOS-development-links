@@ -43,3 +43,7 @@ A list of helper materials for iOS development
 
 * http://krakendev.io/blog/hipster-swift#noescape 
 * http://stackoverflow.com/a/25169215/2100226 if Pod install takes for ever!!!
+
+## Medium
+* iOS App Development - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
+* Swift Programming - The Swift Programming Language
