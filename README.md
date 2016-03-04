@@ -37,3 +37,4 @@ A list of helper materials for iOS development
 ## More Helps
 
 * http://krakendev.io/blog/hipster-swift#noescape 
+* http://stackoverflow.com/a/25169215/2100226 if Pod install takes for ever!!!
