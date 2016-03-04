@@ -7,6 +7,7 @@ A list of helper materials for iOS development
 * https://github.com/vsouza/awesome-ios - The mother of all list
 * https://github.com/goktugyil/EZSwiftExtensions - Neat Extensions
 * https://github.com/core-plot/core-plot - Ploting and Chart 
+* https://github.com/hyperoslo/ImagePicker - Image Picker
 
 ## Pods under review
 
