@@ -16,6 +16,10 @@ A list of helper materials for iOS development
 * https://github.com/brentnycum/BNHtmlPdfKit/issues
 * https://github.com/Flipboard/FLEX?ref=producthunt
 
+## Style Guides
+
+* https://github.com/hyperoslo/iOS-playbook/blob/master/style-guidelines/Swift.md
+
 ## Tuts
 
 ## Gist
