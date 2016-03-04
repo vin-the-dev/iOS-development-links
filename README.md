@@ -8,6 +8,7 @@ A list of helper materials for iOS development
 * https://github.com/goktugyil/EZSwiftExtensions - Neat Extensions
 * https://github.com/core-plot/core-plot - Ploting and Chart 
 * https://github.com/hyperoslo/ImagePicker - Image Picker
+* https://github.com/zekunyan/TTGSnackbar - Similar to Toast Message
 
 ## Pods under review
 
