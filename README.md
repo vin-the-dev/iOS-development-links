@@ -48,3 +48,7 @@ A list of helper materials for iOS development
 ## Medium
 * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 * [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language
+
+
+## Mac help
+* [Terminal tricks](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
