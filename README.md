@@ -39,6 +39,7 @@ A list of helper materials for iOS development
 * http://ericasadun.com/2015/05/21/swift-six-killer-features/ 
 * https://medium.com/ios-os-x-development/perfect-smooth-scrolling-in-uitableviews-fd609d5275a5#.wd4ygcim1
 * [iOS Architecture](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.ojm6yg8sd)
+* [iOS Developers Blog](http://blog.ios-developers.io)
 
 ## More Helps
 
