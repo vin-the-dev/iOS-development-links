@@ -25,6 +25,7 @@ A list of helper materials for iOS development
 ## Gist
 
 * https://gist.github.com/mattt/bd5e48ae461848cdbd1e
+* [Image pop up](https://gist.github.com/williamhqs/13115ac665266750bd38)
 
 ## Inspiration
 
