@@ -16,6 +16,11 @@ A list of helper materials for iOS development
 * https://github.com/brentnycum/BNHtmlPdfKit/issues
 * https://github.com/Flipboard/FLEX?ref=producthunt
 
+## Stack Over flow
+* [xib as view](http://stackoverflow.com/questions/24370061/assign-xib-to-the-uiview-in-swift)
+
+
+
 ## Style Guides
 
 * https://github.com/hyperoslo/iOS-playbook/blob/master/style-guidelines/Swift.md
