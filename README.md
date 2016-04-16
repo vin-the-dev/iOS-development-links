@@ -59,6 +59,18 @@ A list of helper materials for iOS development
 ## Icons
 * https://icons8.com
 
+## Backend
+* http://telepat.io
+* https://www.back4app.com
+* https://batch.com
+
+## Fonts
+* https://www.google.com/fonts
+* https://www.fontsquirrel.com
+ 
+## Stackover flow
+* http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
+
 
 ## Mac help
 * [40 Terminal Tips and Tricks You Never Thought You Needed](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
