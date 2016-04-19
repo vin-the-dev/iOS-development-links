@@ -54,6 +54,8 @@ A list of helper materials for iOS development
 ## Medium
 * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 * [Swift Programming](https://medium.com/swift-programming) - The Swift Programming Language
+* [27 iOS open source libraries to skyrocket your development.](https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c#.fahwawrwz)
+* [52 people every iOS developer should follow on Twitter.](https://medium.com/app-coder-io/52-people-every-ios-developer-should-follow-on-twitter-25ca8915369a#.7s4c09udh)
  
 ## Icons
 * https://icons8.com
