@@ -19,6 +19,7 @@ A list of helper materials for iOS development
 ## Stack Over flow
 * [xib as view](http://stackoverflow.com/questions/24370061/assign-xib-to-the-uiview-in-swift)
 * [Detect current device](http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift)
+* http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
 
 ## Style Guides
 
@@ -68,10 +69,6 @@ A list of helper materials for iOS development
 ## Fonts
 * https://www.google.com/fonts
 * https://www.fontsquirrel.com
- 
-## Stackover flow
-* http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
-
 
 ## Mac help
 * [40 Terminal Tips and Tricks You Never Thought You Needed](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
