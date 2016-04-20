@@ -15,6 +15,7 @@ A list of helper materials for iOS development
 * https://github.com/iclems/iOS-htmltopdf/issues?utf8=✓&q=pod
 * https://github.com/brentnycum/BNHtmlPdfKit/issues
 * https://github.com/Flipboard/FLEX?ref=producthunt
+* https://github.com/Yalantis/DisplaySwitcher - Collection view layout switcher
 
 ## Stack Over flow
 * [xib as view](http://stackoverflow.com/questions/24370061/assign-xib-to-the-uiview-in-swift)
