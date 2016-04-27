@@ -49,6 +49,7 @@ A list of helper materials for iOS development
 * [iOS Developers Blog](http://blog.ios-developers.io)
 * [View help 1](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/WindowsandViews/WindowsandViews.html)
 * [View help 2](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/WindowsandViews/WindowsandViews.html)
+* [lldb read](https://www.objc.io/issues/19-debugging/lldb-debugging/)
 
 ## More Helps
 
