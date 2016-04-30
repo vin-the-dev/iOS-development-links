@@ -9,6 +9,7 @@ A list of helper materials for iOS development
 * https://github.com/core-plot/core-plot - Ploting and Chart 
 * https://github.com/hyperoslo/ImagePicker - Image Picker
 * https://github.com/zekunyan/TTGSnackbar - Similar to Toast Message
+* https://github.com/jathu/UIImageColors - Color from UIImageView
 
 ## Pods under review
 
