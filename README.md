@@ -53,6 +53,7 @@ A list of helper materials for iOS development
 * [View help 1](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/WindowsandViews/WindowsandViews.html)
 * [View help 2](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/WindowsandViews/WindowsandViews.html)
 * [lldb read](https://www.objc.io/issues/19-debugging/lldb-debugging/)
+* Speech Recoginition iOS OpenEars  Nuance
 
 ## More Helps
 
