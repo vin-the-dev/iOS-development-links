@@ -81,3 +81,4 @@ A list of helper materials for iOS development
 
 ## Mac help
 * [40 Terminal Tips and Tricks You Never Thought You Needed](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
+* [To disable nssessionurlid](https://discussions.apple.com/message/30070768#30070768)
