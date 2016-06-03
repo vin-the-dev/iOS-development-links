@@ -22,6 +22,7 @@ A list of helper materials for iOS development
 * [xib as view](http://stackoverflow.com/questions/24370061/assign-xib-to-the-uiview-in-swift)
 * [Detect current device](http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift)
 * http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
+* [Map view custom layout](http://stackoverflow.com/questions/32581049/mapkit-ios-9-detailcalloutaccessoryview-usage/32897201#32897201)
 
 ## Style Guides
 
