@@ -23,7 +23,7 @@ A list of helper materials for iOS development
 * [Detect current device](http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift)
 * http://stackoverflow.com/questions/24059327/detect-current-device-with-ui-user-interface-idiom-in-swift
 * [Map view custom layout](http://stackoverflow.com/questions/32581049/mapkit-ios-9-detailcalloutaccessoryview-usage/32897201#32897201)
-* [Load View Events](http://stackoverflow.com/a/4502761/2100226)
+* [Events when loading View](http://stackoverflow.com/a/4502761/2100226)
 
 ## Style Guides
 
