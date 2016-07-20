@@ -62,6 +62,7 @@ A list of helper materials for iOS development
 * http://krakendev.io/blog/hipster-swift#noescape 
 * http://stackoverflow.com/a/25169215/2100226 if Pod install takes for ever!!!
 * [Create a new pod](http://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332)
+* [Autolayout symbolic breakpoint](http://nshint.io/blog/2015/08/17/autolayout-breakpoints/)
 
 ## Medium
 * [iOS App Development](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
