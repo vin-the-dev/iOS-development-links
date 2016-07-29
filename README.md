@@ -10,6 +10,7 @@ A list of helper materials for iOS development
 * https://github.com/hyperoslo/ImagePicker - Image Picker
 * https://github.com/zekunyan/TTGSnackbar - Similar to Toast Message
 * https://github.com/jathu/UIImageColors - Color from UIImageView
+* [UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet#basic-functionality)
 
 ## Pods under review
 
