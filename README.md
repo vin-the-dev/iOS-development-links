@@ -89,3 +89,4 @@ A list of helper materials for iOS development
 ## Mac help
 * [40 Terminal Tips and Tricks You Never Thought You Needed](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
 * [To disable nssessionurlid](https://discussions.apple.com/message/30070768#30070768)
+* [Lync asking password](http://answers.microsoft.com/en-us/msoffice/forum/msoffice_sfb/lync-2011-for-mac-keeps-asking-for-credentials/6683f1a4-edc4-4890-a171-1349262a0614?auth=1)
