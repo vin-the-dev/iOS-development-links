@@ -92,3 +92,5 @@ A list of helper materials for iOS development
 * [Lync asking password](http://answers.microsoft.com/en-us/msoffice/forum/msoffice_sfb/lync-2011-for-mac-keeps-asking-for-credentials/6683f1a4-edc4-4890-a171-1349262a0614?auth=1)
 * sudo rm -Rf <Folder Name> to delte everything under a folder mac [Link](http://superuser.com/questions/647574/why-cant-i-delete-this-file)
 
+## bash help
+* [For loop]http://www.cyberciti.biz/faq/bash-iterate-array/
