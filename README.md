@@ -83,6 +83,9 @@ A list of helper materials for iOS development
 * https://www.google.com/fonts
 * https://www.fontsquirrel.com
 
+## UI Help
+* [Beautiful Gradients](http://uigradients.com/)
+
 ## Xcode Help
 * [XCode Shortcuts](http://supereasyapps.com/blog/2014/9/15/14-xcode-time-saving-shortcuts-memorize-and-improve-your-productivity)
 
