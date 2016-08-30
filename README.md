@@ -1,4 +1,3 @@
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star&maxAge=2592000)]()
 
 # iOS-development-links
 A list of helper materials for iOS development 
