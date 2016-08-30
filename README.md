@@ -1,3 +1,5 @@
+[![HitCount](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/vinbhai4u/iOS-development-links)
+
 # iOS-development-links
 A list of helper materials for iOS development 
 
