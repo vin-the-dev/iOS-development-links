@@ -30,6 +30,7 @@ A list of helper materials for iOS development
 ## Style Guides
 
 * https://github.com/hyperoslo/iOS-playbook/blob/master/style-guidelines/Swift.md
+* http://ivomynttinen.com/blog/ios-design-guidelines
 
 ## YouTube
 
